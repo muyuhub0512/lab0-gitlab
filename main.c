@@ -4,4 +4,5 @@ int main()
 {
     // @TODO: print a sentence you want.
     printf("Welcome to Github!\n");
+    printf("Github!\n");
 }
